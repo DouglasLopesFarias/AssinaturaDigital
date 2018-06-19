@@ -8,5 +8,6 @@ public class AssinaturaDigitalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AssinaturaDigitalApplication.class, args);
+		System.out.println("Primeira aplicação");
 	}
 }
